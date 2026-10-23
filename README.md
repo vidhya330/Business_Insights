@@ -140,9 +140,9 @@ With ₹3.62 billion in net sales, a 38.32% gross margin, and a -13.88% net prof
 
 By combining financial, customer, product, regional, market share, and forecast analysis, the dashboard helps businesses identify performance gaps and make informed decisions.
 
-🔗 Project Links
+🔗 Project Link
 
 - "View Interactive Power BI Dashboard": https://app.powerbi.com/view?r=eyJrIjoiNmMzMTkwN2YtMzg0NC00ZTQ5LTg2ZDgtMmJmMjVlYThhMjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-- "GitHub Repository" (https://github.com/vidhya330/Business_Insights)
+
 
 Developed as a Data Analyst portfolio project using Power BI to solve business problems through data-driven insights.
